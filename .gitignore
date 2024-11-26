@@ -17,3 +17,24 @@ wp-content/upgrade/
 *.zip
 *.tar.gz
 *.bak
+*.log
+*.bak
+debug.log
+*.tmp
+
+
+# Garder uniquement les plugins/thèmes en développement
+!wp-content/plugins/my-custom-plugin/
+!wp-content/themes/my-custom-theme/
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
+
+# Ignorer les dossiers des IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers générés par Composer ou Node.js (si utilisés)
+vendor/
+node_modules/
