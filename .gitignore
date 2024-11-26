@@ -1,0 +1,19 @@
+# Exclure le fichier de configuration principal de WordPress
+wp-config.php
+
+# Exclure les dossiers contenant des données sensibles ou inutiles
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup/
+wp-content/advanced-cache.php
+wp-content/upgrade/
+
+
+/node_modules/
+/vendor/
+
+# Exclure les fichiers et dossiers de sauvegarde
+*.sql
+*.zip
+*.tar.gz
+*.bak
