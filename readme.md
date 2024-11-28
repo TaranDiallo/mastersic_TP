@@ -54,6 +54,15 @@ Ce projet a pour objectif de déployer et sécuriser un site WordPress hébergé
 
 Ce projet vise à fournir un environnement sécurisé et optimisé pour l'hébergement de sites WordPress, en adoptant les meilleures pratiques pour la protection des données et la détection proactive des vulnérabilités.
 
+Pour plus de détails techniques sur la mise en œuvre, consultez notre [Documentation technique](https://nomande-consulting.notion.site/D-ploiement-et-s-curisation-d-un-site-WordPress-1130f38684d6808c94ffe8c9f9b23130?pvs=4).
+
+## Contributeurs
+
+- [Ousmane Diallo](https://www.linkedin.com/in/diallousmane/)
+- [Hélène Moulet](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-moulet/)
+- [Bailo Diallo](https://www.linkedin.com/in/bailosank/)
+- [Matteo LE PERA](https://www.linkedin.com/in/matteo-le-pera-45ab89227/)
+
 
 ## Licence
 
