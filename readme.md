@@ -66,7 +66,7 @@ Pour plus de détails techniques sur la mise en œuvre, consultez notre [Documen
 
 ## Licence
 
-Ce projet est sous licence [MIT](LICENSE). Vous êtes libre de le modifier et de le redistribuer, sous réserve de respecter les termes de la licence.
+Ce projet est sous licence [MIT](LICENCE.txt). Vous êtes libre de le modifier et de le redistribuer, sous réserve de respecter les termes de la licence.
 
 ---
 
