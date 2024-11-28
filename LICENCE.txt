@@ -20,13 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-
-## Contributeurs principaux
-
-Ce projet a été réalisé dans le cadre d'un projet universitaire par les étudiants suivants :
-
-- [Ousmane Diallo](https://www.linkedin.com/in/diallousmane/)
-- [Hélène Moulet](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-moulet/)
-- [Bailo Diallo](https://www.linkedin.com/in/bailosank/)
-- [Matteo LE PERA](https://www.linkedin.com/in/matteo-le-pera-45ab89227/)
