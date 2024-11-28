@@ -58,6 +58,8 @@ Pour plus de détails techniques sur la mise en œuvre, consultez notre [Documen
 
 ## Contributeurs
 
+*Développé par un groupe d'étudiant du [Master SIC -Cybersécurité de l'Université Paris Panthéon Sorbonne](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-management-des-systemes-d-information-KBUV9JGI/master-parcours-systemes-d-information-et-de-connaissance-sous-parcours-cybersecurite-apprentissage-KD8MHGXN.html)*
+
 - [Ousmane Diallo](https://www.linkedin.com/in/diallousmane/)
 - [Hélène Moulet](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-moulet/)
 - [Bailo Diallo](https://www.linkedin.com/in/bailosank/)
@@ -68,6 +70,5 @@ Pour plus de détails techniques sur la mise en œuvre, consultez notre [Documen
 
 Ce projet est sous licence [MIT](LICENCE.txt). Vous êtes libre de le modifier et de le redistribuer, sous réserve de respecter les termes de la licence.
 
----
+--
 
-*Développé par un groupe d'étudiant du [Master SIC -Cybersécurité de l'Université Paris Panthéon Sorbonne](https://formations.pantheonsorbonne.fr/fr/catalogue-des-formations/master-M/master-management-des-systemes-d-information-KBUV9JGI/master-parcours-systemes-d-information-et-de-connaissance-sous-parcours-cybersecurite-apprentissage-KD8MHGXN.html)*
